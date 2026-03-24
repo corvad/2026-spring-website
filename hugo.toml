@@ -2,3 +2,19 @@ baseURL = 'https://corvaglia.dev/'
 languageCode = 'en-us'
 title = 'David Corvaglia'
 theme = 'corvaglia'
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 10
+
+  [[menu.main]]
+    name = "Blog"
+    url = "/blog/"
+    weight = 30
+
+  [[menu.main]]
+    name = "Experience"
+    url = "/experience"
+    weight = 20
