@@ -18,7 +18,7 @@ I wanted my site to be different. My old site was very much "modern" style, you 
 
 ## But it looks bad.
 
-Why should I conform to what the industry thinks is _modern_ (look at where it got us with Liquit Glass). At the end of the day there will always be that brand new thing and I wanted something simple, I also really like the retro Web 1.0 look this website gives off. Furthermore, I am not a web developer, I like writing low-level and systems code in C and Go, not writing an Electron app with a perfect UI.
+Why should I conform to what the industry thinks is _modern_. At the end of the day there will always be that brand new thing and I wanted something simple, I also really like the retro Web 1.0 look this website gives off. Furthermore, I am not a web developer, I like writing low-level and systems code in C and Go, not writing an Electron app with a perfect UI.
 
 ## Static Site Generation
 To that extent I decided to create this canvas of my imagination with Hugo. It works and does not occupy **5GB** of npm packages with hundreds of dependencies to generate a static site like my old one. My old website was decent, but I always hated that it shipped as an SPA for a static three page website. Talk about waste...
