@@ -4,7 +4,7 @@ title = "Experience"
 +++
 
 > Seize the time... Live now! Make now always the most precious time. Now will never come again.
-
+>
 > \- Star Trek: The Next Generation
 
 I'm currently a sophomore at Texas A&M University studying Computer Science. At Texas A&M I am involved in the Cybersecurity Club and am current a Hardware Hacking Activity Leader.
