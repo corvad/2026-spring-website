@@ -1,6 +1,6 @@
 # 2026-spring-website
 New 2026 Spring Personal Website
 
-Will be on corvaglia.dev soon.
+Currently trialing on beta.corvaglia.dev
 
 Previously website was in Astrojs but wanted something easier to maintain and simpler.
