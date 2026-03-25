@@ -11,15 +11,15 @@ I'm currently a sophomore at Texas A&M University studying Computer Science. At 
 
 I enjoy working on low-level software, distributed systems, and high performance compute tasks.
 
-This summer I will be interning at Micorosft with Azure.
+This summer I will be interning at Microsft on Azure.
 
 {{< figure src="google.png" alt="Google Atlanta" caption="David Corvaglia @ Google Atlanta!" >}}
 
-My last role was at Google where I interned on the Fuchsia Engineering Productivity Infra team. I helped bring to life the automatic validation of hardware across a fleet of hundreds of devices responsible for thousands of daily C I/CD jobs to empower Fuchsia to success.
+My last role was at Google where I interned on the Fuchsia Engineering Productivity Infra team. I helped bring to life the automatic validation of hardware across a fleet of hundreds of devices responsible for thousands of daily CI/CD jobs to empower Fuchsia to success.
 
-{{< figure src="nasa.png" alt="Google Atlanta" caption="MicroChariot Testing @ Johnson Space Center" >}}
+{{< figure src="nasa.png" alt="NASA JSC MicroChariot" caption="MicroChariot Testing @ Johnson Space Center" >}}
 
-Before that I worked at NASA in the Software, Robotics, and Simulation Division where I helped reinvision MicroChariot, a experimental rover with a novel flight control architecture and software stack.
+Before that I worked at NASA in the Software, Robotics, and Simulation Division where I worked on MicroChariot, a experimental rover with a novel flight control architecture and software stack.
 
 In high school I did quite a bit of robotics doing VEX and I joined FIRST team Robonauts 118 doing software. I focused on implementing more robust autonomous behviours with custom computer vision on edge accelerators.
 

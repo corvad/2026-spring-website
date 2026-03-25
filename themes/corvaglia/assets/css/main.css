@@ -13,6 +13,21 @@ header {
   margin-bottom: 1rem;
 }
 
+nav ul {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  gap: 1rem;
+}
+
+nav ul ul {
+  flex-direction: column;
+}
+
+nav a {
+  display: inline-block;
+}
+
 footer {
   border-top: 1px solid #222;
   margin-top: 1rem;
