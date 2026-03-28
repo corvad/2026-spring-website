@@ -2,6 +2,7 @@ baseURL = 'https://beta.corvaglia.dev/'
 languageCode = 'en-us'
 title = 'David Corvaglia'
 theme = 'corvaglia'
+enableRobotsTXT = true
 
 [menu]
   [[menu.main]]
@@ -18,8 +19,3 @@ theme = 'corvaglia'
     name = "Experience"
     url = "/experience"
     weight = 20
-
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
