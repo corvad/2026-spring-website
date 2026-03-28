@@ -15,7 +15,7 @@ This summer I will be interning at Microsft on Azure.
 
 {{< figure src="google.png" alt="Google Atlanta" caption="David Corvaglia @ Google Atlanta!" >}}
 
-My last role was at Google where I interned on the Fuchsia Engineering Productivity Infra team. I helped bring to life the automatic validation of hardware across a fleet of hundreds of devices responsible for thousands of daily CI/CD jobs to empower Fuchsia to success.
+My last role was at Google where I interned on the Fuchsia Engineering Productivity Infra team. I helped bring to life the automatic validation of hardware across a fleet of hundreds of devices responsible for thousands of daily CI/CD jobs.
 
 {{< figure src="nasa.png" alt="NASA JSC MicroChariot" caption="MicroChariot Testing @ Johnson Space Center" >}}
 
