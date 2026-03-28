@@ -1,6 +1,6 @@
 # 2026-spring-website
 New 2026 Spring Personal Website
 
-Currently trialing on beta.corvaglia.dev
+Currently live at corvaglia.dev
 
-Previously website was in Astrojs but wanted something easier to maintain and simpler.
+Previously website was in AstroJS but wanted something easier to maintain and simpler.
