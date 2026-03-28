@@ -7,7 +7,7 @@ title = "Experience"
 >
 > \- Star Trek: The Next Generation
 
-I'm currently a sophomore at Texas A&M University studying Computer Science. At Texas A&M I am involved in the Cybersecurity Club and am current a Hardware Hacking Activity Leader.
+I'm currently a sophomore at Texas A&M University studying computer science. At Texas A&M I am involved in the Cybersecurity Club and am currently a Hardware Hacking activity leader.
 
 I enjoy working on low-level software, distributed systems, and high performance compute tasks.
 
@@ -21,8 +21,8 @@ My last role was at Google where I interned on the Fuchsia Engineering Productiv
 
 Before that I worked at NASA in the Software, Robotics, and Simulation Division where I worked on MicroChariot, a experimental rover with a novel flight control architecture and software stack.
 
-In high school I did quite a bit of robotics doing VEX and I joined FIRST team Robonauts 118 doing software. I focused on implementing more robust autonomous behviours with custom computer vision on edge accelerators.
+In high school I did quite a bit of robotics on a VEX VRC team and I joined FIRST team Robonauts 118 doing software. I focused on implementing more robust autonomous behviours with custom computer vision on edge accelerators.
 
 I really like working in C, C++, Go.
 
-I've used Git, Docker, Bazel, Github, Gitlab, VS Code, GCP, AWS, Azure, Vim, Linux/Unix & Windows, VMware, WSL, Proxmox, Ansible, Terraform, OPNSense, Kubernetes, and much much more...
+I've used Git, Docker, Bazel, GitHub, Gitlab, VS Code, GCP, AWS, Azure, Vim, Linux/Unix & Windows, VMware, WSL, Proxmox, Ansible, Terraform, Kubernetes, Distributed Systems, and much much more...

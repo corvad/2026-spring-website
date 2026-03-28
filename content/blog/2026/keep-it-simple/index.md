@@ -14,11 +14,11 @@ You may be wondering why?
 
 To be honest and frank, I got sick of it. Today there is so much hype around the latest and greatest JavaScript framework and how it lets you create the most reactive user interface yet while **only** taking up 150MB on the client.
 
-I wanted my site to be different. My old site was very much "modern" style, you know the design, rounded corners, hype colors, etc. But I realizied that what I should focus on is the content, not on what might look _modern_.
+I wanted my site to be different. My old site was very much the "modern" style, you know the design, rounded corners, hype colors, etc. But I realizied that what I should focus on is the content, not on what might look _modern_.
 
-## But it looks bad.
+## But it's 2026, why not use the latest and greatest?
 
-Why should I conform to what the industry thinks is _modern_. At the end of the day there will always be that brand new thing and I wanted something simple, I also really like the retro Web 1.0 look this website gives off. Furthermore, I am not a web developer, I like writing low-level and systems code in C and Go, not writing an Electron app with a perfect UI.
+Why should I conform to what the industry thinks is _modern_. At the end of the day there will always be that brand new thing and I wanted something simple, I also really like the retro Web 1.0 look this website gives off. Furthermore, I am not a web developer, I like writing low-level and systems code in C and Go, not spending days perfecting CSS and JavaScript.
 
 ## Static Site Generation
 To that extent I decided to create this canvas of my imagination with Hugo. It works and does not occupy **5GB** of npm packages with hundreds of dependencies to generate a static site like my old one. My old website was decent, but I always hated that it shipped as an SPA for a static three page website. Talk about waste...

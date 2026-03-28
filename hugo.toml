@@ -18,3 +18,8 @@ theme = 'corvaglia'
     name = "Experience"
     url = "/experience"
     weight = 20
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
