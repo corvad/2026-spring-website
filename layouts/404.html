@@ -1,3 +1,9 @@
+{{ define "title" }}404 Not Found | {{ site.Title }}{{ end }}
+
+{{ define "head" }}
+<meta name="robots" content="noindex, nofollow">
+{{ end }}
+
 {{ define "main" }}
 <style>
     * {
@@ -6,6 +12,7 @@
     }
 
     .borg-404 {
+        font-family: Google Sans Code, monospace !important;
         padding: 3rem 1.5rem;
         text-align: center;
     }
