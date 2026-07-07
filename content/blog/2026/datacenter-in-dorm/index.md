@@ -1,5 +1,5 @@
 +++
-title = 'Building a Datacenter in my Dorm Room'
+title = 'Building a Datacenter in My Dorm Room'
 date = '2026-07-06T18:23:42-05:00'
 draft = false
 +++
