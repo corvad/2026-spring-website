@@ -61,7 +61,7 @@ code {
 
 main img {
   display: block;
-  max-width: min(100%, 300px);
+  max-width: min(100%, 400px);
   height: auto;
   margin: 1rem auto;
 }
