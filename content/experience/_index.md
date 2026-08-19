@@ -11,6 +11,7 @@ I'm currently a rising junior at Texas A&M University studying computer science.
 
 I enjoy working on low-level software, network/distributed systems, and high performance computing tasks.
 
+{{< figure src="rainier.jpg" alt="Rainier" caption="Walking in front of Rainier" >}}
 {{< figure src="microsoft.jpg" alt="Microsoft Visitor Center" caption="First Day @ Microsoft!" >}}
 
 Summer 2026 I interned at Microsoft in Redmond working on Azure Local Disconnected Operations creating high-throughput data integrity services.
