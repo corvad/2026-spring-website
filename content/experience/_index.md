@@ -7,15 +7,17 @@ title = "Experience"
 >
 > \- Star Trek: The Next Generation
 
-I'm currently a rising junior at Texas A&M University studying computer science. At Texas A&M I am involved in the Cybersecurity Club and am currently a Hardware Hacking activity leader.
+I'm currently a rising junior at Texas A&M University studying computer science. At Texas A&M I am involved in the Cybersecurity Club as the lead for Hardware Hacking and am the SC26 Gig 'Em Bytes team lead.
 
-I enjoy working on low-level software, distributed systems, and high performance compute tasks.
+I enjoy working on low-level software, network/distributed systems, and high performance computing tasks.
 
-I am currently interning at Microsoft on Specialized Clouds.
+{{< figure src="microsoft.jpg" alt="Microsoft Visitor Center" caption="First Day @ Microsoft!" >}}
+
+Summer 2026 I interned at Microsoft in Redmond working on Azure Local Disconnected Operations creating high-throughput data integrity services.
 
 {{< figure src="google.png" alt="Google Atlanta" caption="David Corvaglia @ Google Atlanta!" >}}
 
-My last role was at Google where I interned on the Fuchsia Engineering Productivity Infra team. I helped bring to life the automatic validation of hardware across a fleet of hundreds of devices responsible for thousands of daily CI/CD jobs.
+At Google I interned on the Fuchsia Engineering Productivity Infra team. I helped bring to life automatic validation of hardware across a fleet of hundreds of devices responsible for thousands of daily CI/CD jobs.
 
 {{< figure src="nasa.png" alt="NASA JSC MicroChariot" caption="MicroChariot Testing @ Johnson Space Center" >}}
 
